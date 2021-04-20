@@ -1,0 +1,6 @@
+C:\Users\Henrique\workspace\ExemploFuncaoLambda\src\ExemploFuncaoLambda\bin\Release\netcoreapp3.1\publish\ExemploFuncaoLambda.dll
+C:\Users\Henrique\workspace\ExemploFuncaoLambda\src\ExemploFuncaoLambda\bin\Release\netcoreapp3.1\publish\ExemploFuncaoLambda.deps.json
+C:\Users\Henrique\workspace\ExemploFuncaoLambda\src\ExemploFuncaoLambda\bin\Release\netcoreapp3.1\publish\ExemploFuncaoLambda.runtimeconfig.json
+C:\Users\Henrique\workspace\ExemploFuncaoLambda\src\ExemploFuncaoLambda\bin\Release\netcoreapp3.1\publish\ExemploFuncaoLambda.pdb
+C:\Users\Henrique\workspace\ExemploFuncaoLambda\src\ExemploFuncaoLambda\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.Core.dll
+C:\Users\Henrique\workspace\ExemploFuncaoLambda\src\ExemploFuncaoLambda\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.Serialization.SystemTextJson.dll

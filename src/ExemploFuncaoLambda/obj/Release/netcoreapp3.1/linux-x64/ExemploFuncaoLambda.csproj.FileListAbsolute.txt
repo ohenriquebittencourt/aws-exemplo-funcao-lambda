@@ -1,0 +1,15 @@
+C:\Users\Henrique\workspace\ExemploFuncaoLambda\src\ExemploFuncaoLambda\bin\Release\netcoreapp3.1\linux-x64\ExemploFuncaoLambda.deps.json
+C:\Users\Henrique\workspace\ExemploFuncaoLambda\src\ExemploFuncaoLambda\bin\Release\netcoreapp3.1\linux-x64\ExemploFuncaoLambda.runtimeconfig.json
+C:\Users\Henrique\workspace\ExemploFuncaoLambda\src\ExemploFuncaoLambda\bin\Release\netcoreapp3.1\linux-x64\ExemploFuncaoLambda.runtimeconfig.dev.json
+C:\Users\Henrique\workspace\ExemploFuncaoLambda\src\ExemploFuncaoLambda\bin\Release\netcoreapp3.1\linux-x64\ExemploFuncaoLambda.dll
+C:\Users\Henrique\workspace\ExemploFuncaoLambda\src\ExemploFuncaoLambda\bin\Release\netcoreapp3.1\linux-x64\ExemploFuncaoLambda.pdb
+C:\Users\Henrique\workspace\ExemploFuncaoLambda\src\ExemploFuncaoLambda\bin\Release\netcoreapp3.1\linux-x64\Amazon.Lambda.Core.dll
+C:\Users\Henrique\workspace\ExemploFuncaoLambda\src\ExemploFuncaoLambda\bin\Release\netcoreapp3.1\linux-x64\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\Henrique\workspace\ExemploFuncaoLambda\src\ExemploFuncaoLambda\obj\Release\netcoreapp3.1\linux-x64\ExemploFuncaoLambda.csprojAssemblyReference.cache
+C:\Users\Henrique\workspace\ExemploFuncaoLambda\src\ExemploFuncaoLambda\obj\Release\netcoreapp3.1\linux-x64\ExemploFuncaoLambda.AssemblyInfoInputs.cache
+C:\Users\Henrique\workspace\ExemploFuncaoLambda\src\ExemploFuncaoLambda\obj\Release\netcoreapp3.1\linux-x64\ExemploFuncaoLambda.AssemblyInfo.cs
+C:\Users\Henrique\workspace\ExemploFuncaoLambda\src\ExemploFuncaoLambda\obj\Release\netcoreapp3.1\linux-x64\ExemploFuncaoLambda.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\workspace\ExemploFuncaoLambda\src\ExemploFuncaoLambda\obj\Release\netcoreapp3.1\linux-x64\ExemploFuncaoLambda.csproj.CopyComplete
+C:\Users\Henrique\workspace\ExemploFuncaoLambda\src\ExemploFuncaoLambda\obj\Release\netcoreapp3.1\linux-x64\ExemploFuncaoLambda.dll
+C:\Users\Henrique\workspace\ExemploFuncaoLambda\src\ExemploFuncaoLambda\obj\Release\netcoreapp3.1\linux-x64\ExemploFuncaoLambda.pdb
+C:\Users\Henrique\workspace\ExemploFuncaoLambda\src\ExemploFuncaoLambda\obj\Release\netcoreapp3.1\linux-x64\ExemploFuncaoLambda.genruntimeconfig.cache
